@@ -9,3 +9,6 @@ After downloading the site, I analyze the index by reading it.
 .cat index.html
 
 Get possible addresses and fetch something in the code fetch that to filter and pull something clean.
+
+How to use?
+./parsing.sh google.com
